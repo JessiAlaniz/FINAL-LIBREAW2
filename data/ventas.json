@@ -1,0 +1,135 @@
+[
+  {
+    "nombre": "Jessica",
+    "apellido": "Alaniz",
+    "telefono": "123456789",
+    "email": "jessicaalaniz@hotmail.com",
+    "destino": "San Francisco",
+    "hotel": "Fairmont San Francisco",
+    "huespedes": "2",
+    "dias": "2",
+    "total": "1470"
+  },
+  {},
+  {
+    "nombre": "jessica",
+    "apellido": "alaniz",
+    "telefono": "9993232234",
+    "email": "jessi@hotmail.com",
+    "destino": "Miami",
+    "hotel": "Faena Hotel Miami Beach",
+    "huespedes": "1",
+    "dias": "1",
+    "total": "$970"
+  },
+  {
+    "nombre": "jessica",
+    "apellido": "alaniz",
+    "telefono": "9993232234",
+    "email": "jessi@hotmail.com",
+    "destino": "Seattle",
+    "hotel": "Thompson Seattle",
+    "huespedes": "5",
+    "dias": "5",
+    "total": "$12030"
+  },
+  {
+    "nombre": "jessica",
+    "apellido": "alaniz",
+    "telefono": "99932322232",
+    "email": "jessi@hotmail.com",
+    "destino": "Miami",
+    "hotel": "The Setai, Miami Beach",
+    "huespedes": "2",
+    "dias": "5",
+    "total": "$7320"
+  },
+  {
+    "nombre": "",
+    "apellido": "",
+    "telefono": "",
+    "email": "",
+    "destino": "Miami",
+    "hotel": "The Setai, Miami Beach",
+    "huespedes": "1",
+    "dias": "1",
+    "total": "$1020"
+  },
+  {
+    "nombre": "jessica",
+    "apellido": "alaniz",
+    "telefono": "99932322",
+    "email": "jessi@hotmail.com",
+    "destino": "Miami",
+    "hotel": "The Setai, Miami Beach",
+    "huespedes": "1",
+    "dias": "2",
+    "total": "$1720"
+  },
+  {
+    "nombre": "jessica",
+    "apellido": "alaniz",
+    "telefono": "99932322",
+    "email": "jessi@hotmail.com",
+    "destino": "Miami",
+    "hotel": "The Setai, Miami Beach",
+    "huespedes": "1",
+    "dias": "2",
+    "total": "$1720"
+  },
+  {
+    "nombre": "jessica",
+    "apellido": "alaniz",
+    "telefono": "99932322",
+    "email": "jessi@hotmail.com",
+    "destino": "San Francisco",
+    "hotel": "The Ritz-Carlton, San Francisco",
+    "huespedes": "2",
+    "dias": "2",
+    "total": "$2300"
+  },
+  {
+    "nombre": "karina",
+    "apellido": "diez",
+    "telefono": "95566588",
+    "email": "karina@gmail.com",
+    "destino": "San Francisco",
+    "hotel": "Hotel Nikko San Francisco",
+    "huespedes": "1",
+    "dias": "1",
+    "total": "$670"
+  },
+  {
+    "nombre": "jessica",
+    "apellido": "alaniz",
+    "telefono": "99932322",
+    "email": "jessi@hotmail.com",
+    "destino": "San Francisco",
+    "hotel": "The Ritz-Carlton, San Francisco",
+    "huespedes": "1",
+    "dias": "2",
+    "total": "$1260"
+  },
+  {
+    "nombre": "jessica",
+    "apellido": "alaniz",
+    "telefono": "99932322",
+    "email": "jessi@hotmail.com",
+    "destino": "San Francisco",
+    "hotel": "The Ritz-Carlton, San Francisco",
+    "huespedes": "5",
+    "dias": "5",
+    "total": "$13220"
+  },
+  {
+    "nombre": "jessica",
+    "apellido": "alaniz",
+    "telefono": "99932322",
+    "email": "jessi@hotmail.com",
+    "destino": "San Francisco",
+    "hotel": "Hotel Nikko San Francisco",
+    "huespedes": "3",
+    "dias": "3",
+    "total": "$4270"
+  }
+]

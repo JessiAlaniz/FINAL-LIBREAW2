@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "price": 220,
+        "city": "San Francisco",
+        "desc": "San Francisco, known for its iconic Golden Gate Bridge, steep streets, and vibrant cultural scene, is a city of innovation and natural beauty. Enjoy the historic cable cars, explore Fisherman's Wharf, and visit Alcatraz Island.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg",
+        "hotels": [
+            {
+                "name": "Fairmont San Francisco",
+                "price": 480
+            },
+            {
+                "name": "The Ritz-Carlton, San Francisco",
+                "price": 520
+            },
+            {
+                "name": "Hotel Nikko San Francisco",
+                "price": 450
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "price": 320,
+        "city": "Miami",
+        "desc": "Miami, famous for its stunning beaches, Art Deco architecture, and vibrant nightlife, offers a unique blend of Latin American and Caribbean influences. Enjoy the lively atmosphere of South Beach and the cultural richness of Little Havana.",
+        "img": "https://www.lanacion.com.ar/resizer/v2/las-playas-de-miami-se-caracterizan-por-su-3BE4TAFBFJAHJEAX765IRQDNMM.jpg?auth=a58f254f754c6f335a43ed180468c9b114c7420bcc55d6fb1bd4d42426a954ba&width=880&height=586&quality=70&smart=true",
+        "hotels": [
+            {
+                "name": "The Setai, Miami Beach",
+                "price": 700
+            },
+            {
+                "name": "Faena Hotel Miami Beach",
+                "price": 650
+            },
+            {
+                "name": "W South Beach",
+                "price": 600
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "price": 280,
+        "city": "Seattle",
+        "desc": "Seattle, surrounded by water, mountains, and evergreen forests, is known for its tech industry and vibrant music scene. Visit the Space Needle, explore Pike Place Market, and enjoy the scenic beauty of the Pacific Northwest.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Seattle_Kerry_Park_Skyline.jpg",
+        "hotels": [
+            {
+                "name": "Four Seasons Hotel Seattle",
+                "price": 550
+            },
+            {
+                "name": "Fairmont Olympic Hotel",
+                "price": 500
+            },
+            {
+                "name": "Thompson Seattle",
+                "price": 470
+            }
+        ]
+    }
+
+]

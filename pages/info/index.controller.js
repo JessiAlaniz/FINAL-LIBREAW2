@@ -9,7 +9,9 @@ const totalP = document.getElementById('total')
 const hotelSelect = document.getElementById('hotel')
 const inputCant = document.getElementById('cant')
 const inputDays = document.getElementById('days')
+
 const selectedCity = JSON.parse(localStorage.getItem('selectedCity'))
+
 let city = []
 const getTotal = () => {
     const cant = inputCant.value 

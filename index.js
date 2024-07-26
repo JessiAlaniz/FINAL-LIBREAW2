@@ -4,6 +4,7 @@ import ciudadesRouter from './routes/ciudades.routes.js'
 import sellRouter from './routes/ventas.routes.js'
 const app = express()
 
+//LEVANTA EL SERVIDOR
 const port = 3000
 app.use(express.json());
 

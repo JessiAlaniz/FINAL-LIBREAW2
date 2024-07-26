@@ -11,15 +11,19 @@ document.addEventListener('DOMContentLoaded', async()=>{
     
 
     //recorre arreglo para generar las card dinamicamente
-    data.forEach((place) => {
-        cardContainer.innerHTML += card(place.city, place.desc, place.price, place.id, place.img)
+    data.forEach((data) => {
+        cardContainer.innerHTML += card(data.city, data.desc, data.price, data.id, data.img)
     })
 
+    //SE HACE CLICK EN EL BOTON VER MAS
     const btnCity = document.getElementsByName('btnCity')
     Array.from(btnCity).forEach(button => {
         button.addEventListener('click', (e) => {
             const city = JSON.parse(e.target.dataset.city)
+
+            //GUARDO EN EL LOCALSTORAGE EL ID DE LA CIUDAD
             localStorage.setItem('selectedCity', JSON.stringify(city))
+            //REDIRIJO A LA OTRA PAGINA
             window.location.href = './pages/info'
         })
     })
